@@ -38,6 +38,13 @@ body {
   top: 80px;
 }
 
+.word-by-word {
+  color: white;
+  font-size: 50px;
+  position: fixed;
+  top: 10px;
+}
+
 .flowers {
   position: relative;
   transform: scale(0.9);
